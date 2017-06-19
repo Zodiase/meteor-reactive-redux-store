@@ -1,6 +1,6 @@
 Package.describe({
   name: 'zodiase:reactive-redux-store',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'Create Redux stores that are reactive sources.',
   // URL to the Git repository containing the source code for this package.
