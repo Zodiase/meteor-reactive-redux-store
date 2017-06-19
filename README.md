@@ -5,7 +5,7 @@ Create redux stores that are reactive sources in Meteor Tracker.
 ## Install
 
 ```bash
-meteor install zodiase:reactive-redux-store
+meteor add zodiase:reactive-redux-store
 meteor npm install --save redux@3.x.x
 ```
 
