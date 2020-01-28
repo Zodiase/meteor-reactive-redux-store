@@ -1,5 +1,7 @@
 # Reactive Redux for Meteor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Zodiase/meteor-reactive-redux-store.svg)](https://greenkeeper.io/)
+
 Create redux stores that are reactive sources in Meteor Tracker.
 
 ## Install
