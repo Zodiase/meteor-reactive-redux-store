@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "test-app/package.json"
+      ]
+    }
+  }
+}
